@@ -2,7 +2,7 @@ Hi, I'm Prakriti.
 
 💻 Aspiring Software Developer | Java & Python | Learning Web Development  
 
-Welcome to my GitHub! Here you’ll find my projects, experiments, and learning journey.  
+Welcome to my GitHub! 
 
 🛠 Skills & Tools
 
